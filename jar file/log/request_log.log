@@ -1,0 +1,27 @@
+Thu Apr 10 03:39:42 CST 2014
+------------------------
+GETVERIFICATIONIMAGE
+OtherInfo is null
+------------------------
+
+Thu Apr 10 03:39:51 CST 2014
+------------------------
+LOGIN
+object(OtherInfo) information:
+class com.xiao.Feixin.FreeAPI.Model.LoginInfo
+Object(OtherInfo) toString:
+Username: 13710225401
+Password: 83357492
+Verification code: U2PK
+Cookie: key: ccpsession, value: aab6bd7e-874a-4776-a920-25627b2aa5d1, expires: , path: , domain: , secure: false, httpOnly: false
+------------------------
+
+Thu Apr 10 03:40:00 CST 2014
+------------------------
+SENDFREEMSG
+object(OtherInfo) information:
+class com.xiao.Feixin.FreeAPI.Model.FreeMessage
+Object(OtherInfo) toString:
+com.xiao.Feixin.FreeAPI.Model.FreeMessage@5f677970
+------------------------
+

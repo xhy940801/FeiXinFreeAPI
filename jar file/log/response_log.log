@@ -1,0 +1,23 @@
+Thu Apr 10 03:39:45 CST 2014
+------------------------
+SUCCESS
+object(OtherInfo) information:
+class com.xiao.Feixin.FreeAPI.Operater.VerificationImage
+Object(OtherInfo) toString:
+Success
+Cookie information:
+key: ccpsession, value: aab6bd7e-874a-4776-a920-25627b2aa5d1, expires: , path: /, domain: , secure: false, httpOnly: false
+------------------------
+
+Thu Apr 10 03:39:52 CST 2014
+------------------------
+SUCCESS
+OtherInfo is null
+------------------------
+
+Thu Apr 10 03:40:01 CST 2014
+------------------------
+SUCCESS
+OtherInfo is null
+------------------------
+

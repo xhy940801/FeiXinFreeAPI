@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteRule    ^verification_img\.jpg$ get_verification_img.php    [L]
+	RewriteRule    ^conf([/|\\].*)$ conf$1    [R=404]
+</IfModule>
